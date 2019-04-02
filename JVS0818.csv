@@ -1,0 +1,239 @@
+﻿AreaDescription,periodyear,codetitle,vacancies,vacanrate,medianwage
+Statewide,2008,Computer Programmers                              ,119,0.021,25.38
+Statewide,2008,"Computer Software Engineers, Applications         ",445,0.028,26.58
+Statewide,2008,"Computer Software Engineers, Systems Software     ",96,0.011,28.91
+Statewide,2008,Computer Support Specialists                      ,234,0.019,18.7
+Statewide,2008,Computer Systems Analysts                         ,244,0.029,27.12
+Statewide,2008,Database Administrators                           ,65,0.024,26.77
+Statewide,2008,Network and Computer Systems Administrators       ,318,0.032,27.04
+Statewide,2008,Network Systems and Data Communications Analysts  ,303,0.061,24.54
+7-County Metro,2008,Computer Programmers                              ,79,0.021,27.07
+7-County Metro,2008,"Computer Software Engineers, Applications         ",430,0.038,26.59
+7-County Metro,2008,"Computer Software Engineers, Systems Software     ",84,0.014,28.83
+7-County Metro,2008,Computer Support Specialists                      ,199,0.025,19.03
+7-County Metro,2008,Computer Systems Analysts                         ,225,0.037,27.4
+7-County Metro,2008,Database Administrators                           ,51,0.027,28.02
+7-County Metro,2008,Network and Computer Systems Administrators       ,272,0.039,26.4
+7-County Metro,2008,Network Systems and Data Communications Analysts  ,250,0.069,25.79
+Statewide,2009,Computer Programmers                              ,53,0.009,31.16
+Statewide,2009,"Computer Software Engineers, Applications         ",142,0.009,31.7
+Statewide,2009,"Computer Software Engineers, Systems Software     ",36,0.004,31.14
+Statewide,2009,Computer Support Specialists                      ,63,0.005,19.27
+Statewide,2009,Computer Systems Analysts                         ,89,0.008,31.15
+Statewide,2009,Database Administrators                           ,67,0.027,28.75
+Statewide,2009,Network and Computer Systems Administrators       ,176,0.017,33.9
+Statewide,2009,Network Systems and Data Communications Analysts  ,217,0.039,24.6
+7-County Metro,2009,Computer Programmers                              ,41,0.009,32.32
+7-County Metro,2009,"Computer Software Engineers, Applications         ",130,0.01,32.18
+7-County Metro,2009,"Computer Software Engineers, Systems Software     ",36,0.005,31.14
+7-County Metro,2009,Computer Support Specialists                      ,31,0.003,23.11
+7-County Metro,2009,Computer Systems Analysts                         ,84,0.009,31.64
+7-County Metro,2009,Database Administrators                           ,60,0.028,29.17
+7-County Metro,2009,Network and Computer Systems Administrators       ,169,0.02,34.66
+7-County Metro,2009,Network Systems and Data Communications Analysts  ,136,0.028,27.59
+Statewide,2010,"Computer and Information Scientists, Research     ",7,0.028,26.76
+Statewide,2010,Computer Programmers                              ,127,0.023,27.44
+Statewide,2010,"Computer Software Engineers, Applications         ",305,0.019,29.82
+Statewide,2010,"Computer Software Engineers, Systems Software     ",71,0.009,31.11
+Statewide,2010,Computer Support Specialists                      ,84,0.007,16.67
+Statewide,2010,Computer Systems Analysts                         ,395,0.033,29.88
+Statewide,2010,Database Administrators                           ,70,0.03,29.63
+Statewide,2010,Network and Computer Systems Administrators       ,175,0.017,28.82
+Statewide,2010,Network Systems and Data Communications Analysts  ,225,0.042,25.87
+7-County Metro,2010,"Computer and Information Scientists, Research     ",7,0.032,26.76
+7-County Metro,2010,Computer Programmers                              ,99,0.023,28.12
+7-County Metro,2010,"Computer Software Engineers, Applications         ",274,0.02,29.47
+7-County Metro,2010,"Computer Software Engineers, Systems Software     ",61,0.011,32.16
+7-County Metro,2010,Computer Support Specialists                      ,61,0.007,16.74
+7-County Metro,2010,Computer Systems Analysts                         ,382,0.036,30.09
+7-County Metro,2010,Database Administrators                           ,67,0.034,29.57
+7-County Metro,2010,Network and Computer Systems Administrators       ,164,0.02,29.08
+7-County Metro,2010,Network Systems and Data Communications Analysts  ,210,0.045,25.99
+Statewide,2011,Computer and Information Research Scientists,30,0.176,29.1
+Statewide,2011,Computer Systems Analysts,519,0.041,28.61
+Statewide,2011,Information Security Analysts,33,NULL,29.3
+Statewide,2011,Computer Programmers,101,0.018,27.2
+Statewide,2011,"Software Developers, Applications",342,0.023,32.27
+Statewide,2011,"Software Developers, Systems Software",167,0.022,33.9
+Statewide,2011,Web Developers,196,NULL,21.57
+Statewide,2011,Database Administrators,87,0.042,30.55
+Statewide,2011,Network and Computer Systems Administrators,140,0.015,30.25
+Statewide,2011,Computer Network Architects,96,NULL,34.2
+Statewide,2011,Computer User Support Specialists,105,NULL,23.25
+Statewide,2011,Computer Network Support Specialists,107,NULL,32.45
+7-County Metro,2011,Computer and Information Research Scientists,26,0.186,29.93
+7-County Metro,2011,Computer Systems Analysts,489,0.043,28.74
+7-County Metro,2011,Information Security Analysts,29,NULL,30.17
+7-County Metro,2011,Computer Programmers,62,0.014,27.5
+7-County Metro,2011,"Software Developers, Applications",322,0.026,32.58
+7-County Metro,2011,"Software Developers, Systems Software",162,0.029,34.08
+7-County Metro,2011,Web Developers,184,NULL,21.54
+7-County Metro,2011,Database Administrators,84,0.047,30.97
+7-County Metro,2011,Network and Computer Systems Administrators,128,0.017,30.64
+7-County Metro,2011,Computer Network Architects,86,NULL,34.68
+7-County Metro,2011,Computer User Support Specialists,82,NULL,24.91
+7-County Metro,2011,Computer Network Support Specialists,81,NULL,31.31
+Statewide,2012,Computer Systems Analysts,533,0.042,31.12
+Statewide,2012,Information Security Analysts,47,NULL,30.7
+Statewide,2012,Computer Programmers,160,0.028,29.37
+Statewide,2012,"Software Developers, Applications",399,0.028,30.37
+Statewide,2012,"Software Developers, Systems Software",272,0.036,30.93
+Statewide,2012,Web Developers,112,NULL,28.88
+Statewide,2012,Database Administrators,205,0.082,27.74
+Statewide,2012,Network and Computer Systems Administrators,243,0.027,27.96
+Statewide,2012,Computer Network Architects,147,NULL,30.45
+Statewide,2012,Computer User Support Specialists,318,NULL,30.92
+Statewide,2012,Computer Network Support Specialists,28,NULL,24.23
+7-County Metro,2012,Computer Systems Analysts,491,0.044,31.21
+7-County Metro,2012,Information Security Analysts,46,NULL,30.67
+7-County Metro,2012,Computer Programmers,110,0.024,30.73
+7-County Metro,2012,"Software Developers, Applications",350,0.03,30.61
+7-County Metro,2012,"Software Developers, Systems Software",257,0.046,30.96
+7-County Metro,2012,Web Developers,107,NULL,28.57
+7-County Metro,2012,Database Administrators,187,0.086,27.76
+7-County Metro,2012,Network and Computer Systems Administrators,209,0.029,28.43
+7-County Metro,2012,Computer Network Architects,140,NULL,30.52
+7-County Metro,2012,Computer User Support Specialists,137,NULL,25.44
+7-County Metro,2012,Computer Network Support Specialists,24,NULL,24.24
+Statewide,2013,Computer and Information Research Scientists,5,NULL,35.07
+Statewide,2013,Computer Systems Analysts,707,0.055,28.58
+Statewide,2013,Information Security Analysts,103,0.077,30.3
+Statewide,2013,Computer Programmers,208,0.035,26.3
+Statewide,2013,"Software Developers, Applications",820,0.064,29.71
+Statewide,2013,"Software Developers, Systems Software",57,0.007,27.76
+Statewide,2013,Web Developers,201,0.085,32.57
+Statewide,2013,Database Administrators,301,0.119,29.23
+Statewide,2013,Network and Computer Systems Administrators,289,0.034,24.57
+Statewide,2013,Computer Network Architects,56,0.015,28.56
+Statewide,2013,Computer Support Specialists,213,NULL,21.55
+Statewide,2013,Computer User Support Specialists,73,0.007,23.04
+Statewide,2013,Computer Network Support Specialists,16,0.005,18.28
+7-County Metro,2013,Computer and Information Research Scientists,5,0.016,35.07
+7-County Metro,2013,Computer Systems Analysts,623,0.054,29.17
+7-County Metro,2013,Information Security Analysts,99,0.083,30.09
+7-County Metro,2013,Computer Programmers,154,0.032,27.44
+7-County Metro,2013,"Software Developers, Applications",792,0.077,29.72
+7-County Metro,2013,"Software Developers, Systems Software",56,0.008,27.87
+7-County Metro,2013,Web Developers,186,0.091,32.71
+7-County Metro,2013,Database Administrators,298,0.137,29.24
+7-County Metro,2013,Network and Computer Systems Administrators,155,0.023,27.2
+7-County Metro,2013,Computer Network Architects,52,0.02,29.18
+7-County Metro,2013,Computer Support Specialists,164,NULL,22.31
+7-County Metro,2013,Computer User Support Specialists,65,0.008,23.89
+7-County Metro,2013,Computer Network Support Specialists,6,0.002,20.65
+Statewide,2014,Computer and Information Research Scientists,9,0.024,33.72
+Statewide,2014,Computer Systems Analysts,388,0.03,27.33
+Statewide,2014,Information Security Analysts,110,0.068,29.77
+Statewide,2014,Computer Programmers,71,0.012,26.06
+Statewide,2014,"Software Developers, Applications",643,0.057,29.16
+Statewide,2014,"Software Developers, Systems Software",168,0.019,28.32
+Statewide,2014,Web Developers,103,0.039,25.85
+Statewide,2014,Database Administrators,174,0.065,28.09
+Statewide,2014,Network and Computer Systems Administrators,125,0.016,25.74
+Statewide,2014,Computer Network Architects,104,0.027,27.96
+Statewide,2014,Computer User Support Specialists,207,0.018,20.83
+Statewide,2014,Computer Network Support Specialists,26,0.008,23.95
+7-County Metro,2014,Computer and Information Research Scientists,9,0.024,33.72
+7-County Metro,2014,Computer Systems Analysts,355,0.031,27.47
+7-County Metro,2014,Information Security Analysts,99,0.068,29.6
+7-County Metro,2014,Computer Programmers,61,0.013,26.5
+7-County Metro,2014,"Software Developers, Applications",591,0.066,29.06
+7-County Metro,2014,"Software Developers, Systems Software",158,0.024,28.75
+7-County Metro,2014,Web Developers,90,0.04,26.35
+7-County Metro,2014,Database Administrators,161,0.069,28.67
+7-County Metro,2014,Network and Computer Systems Administrators,105,0.016,25.89
+7-County Metro,2014,Computer Network Architects,88,0.032,29.25
+7-County Metro,2014,Computer User Support Specialists,157,0.018,21.89
+7-County Metro,2014,Computer Network Support Specialists,21,0.008,24.48
+Statewide,2015,Computer Systems Analysts,536,0.039,28.85
+Statewide,2015,Information Security Analysts,179,0.105,31.38
+Statewide,2015,Computer Programmers,148,0.021,26.14
+Statewide,2015,"Software Developers, Applications",766,0.064,35.66
+Statewide,2015,"Software Developers, Systems Software",124,0.014,36.3
+Statewide,2015,Web Developers,278,0.089,19.37
+Statewide,2015,Database Administrators,99,0.04,28.47
+Statewide,2015,Network and Computer Systems Administrators,287,0.033,28.37
+Statewide,2015,Computer Network Architects,106,0.022,26.51
+Statewide,2015,Computer User Support Specialists,399,0.031,21.48
+Statewide,2015,Computer Network Support Specialists,58,0.018,33.06
+7-County Metro,2015,Computer Systems Analysts,462,0.038,29.21
+7-County Metro,2015,Information Security Analysts,166,0.11,31.68
+7-County Metro,2015,Computer Programmers,137,0.023,26.58
+7-County Metro,2015,"Software Developers, Applications",544,0.057,32.26
+7-County Metro,2015,"Software Developers, Systems Software",115,0.016,37.22
+7-County Metro,2015,Web Developers,265,0.1,18.65
+7-County Metro,2015,Database Administrators,90,0.042,29.38
+7-County Metro,2015,Network and Computer Systems Administrators,267,0.039,28.93
+7-County Metro,2015,Computer Network Architects,54,0.015,28.61
+7-County Metro,2015,Computer User Support Specialists,181,0.018,22.32
+7-County Metro,2015,Computer Network Support Specialists,23,0.009,26.89
+Statewide,2016,Computer Systems Analysts,590,0.039,36.27
+Statewide,2016,Information Security Analysts,138,0.073,34.84
+Statewide,2016,Computer Programmers,106,0.014,33.5
+Statewide,2016,"Software Developers, Applications",777,0.06,34.21
+Statewide,2016,"Software Developers, Systems Software",152,0.016,32.08
+Statewide,2016,Web Developers,122,0.036,33.59
+Statewide,2016,Database Administrators,142,0.053,44.28
+Statewide,2016,Network and Computer Systems Administrators,224,0.027,32.57
+Statewide,2016,Computer Network Architects,109,0.025,36.79
+Statewide,2016,Computer User Support Specialists,308,0.022,23.31
+Statewide,2016,Computer Network Support Specialists,16,0.005,23.04
+7-County Metro,2016,Computer Systems Analysts,546,0.041,37.07
+7-County Metro,2016,Information Security Analysts,131,0.081,35
+7-County Metro,2016,Computer Programmers,100,0.016,33.54
+7-County Metro,2016,"Software Developers, Applications",753,0.066,34.48
+7-County Metro,2016,"Software Developers, Systems Software",147,0.019,32.13
+7-County Metro,2016,Web Developers,117,0.041,34.07
+7-County Metro,2016,Database Administrators,134,0.057,45.59
+7-County Metro,2016,Network and Computer Systems Administrators,179,0.027,34.66
+7-County Metro,2016,Computer Network Architects,106,0.03,36.79
+7-County Metro,2016,Computer User Support Specialists,258,0.024,24.69
+7-County Metro,2016,Computer Network Support Specialists,12,0.005,24.59
+Statewide,2017,Computer and Information Research Scientists,11,0.03,36.85
+Statewide,2017,Computer Systems Analysts,880,0.056,36.31
+Statewide,2017,Information Security Analysts,151,0.042,35.27
+Statewide,2017,Computer Programmers,218,0.03,36.7
+Statewide,2017,"Software Developers, Applications",588,0.04,35.37
+Statewide,2017,"Software Developers, Systems Software",214,0.024,40.98
+Statewide,2017,Web Developers,78,0.024,32.64
+Statewide,2017,Database Administrators,51,0.021,27.47
+Statewide,2017,Network and Computer Systems Administrators,131,0.014,29.8
+Statewide,2017,Computer Network Architects,72,0.014,34.03
+Statewide,2017,Computer User Support Specialists,180,0.014,22.32
+Statewide,2017,Computer Network Support Specialists,40,0.013,22.79
+7-County Metro,2017,Computer and Information Research Scientists,11,0.032,36.85
+7-County Metro,2017,Computer Systems Analysts,838,0.061,36.66
+7-County Metro,2017,Information Security Analysts,148,0.045,35.34
+7-County Metro,2017,Computer Programmers,198,0.035,37.87
+7-County Metro,2017,"Software Developers, Applications",556,0.042,35.48
+7-County Metro,2017,"Software Developers, Systems Software",212,0.031,40.99
+7-County Metro,2017,Web Developers,73,0.026,33.24
+7-County Metro,2017,Database Administrators,48,0.023,27.52
+7-County Metro,2017,Network and Computer Systems Administrators,106,0.014,30.75
+7-County Metro,2017,Computer Network Architects,70,0.017,34.13
+7-County Metro,2017,Computer User Support Specialists,130,0.013,22.88
+7-County Metro,2017,Computer Network Support Specialists,26,0.01,20.37
+Statewide,2018,Computer and Information Research Scientists,32,0.132,34.74
+Statewide,2018,Computer Systems Analysts,460,0.028,35.9
+Statewide,2018,Information Security Analysts,166,0.048,36.07
+Statewide,2018,Computer Programmers,93,0.019,30.52
+Statewide,2018,"Software Developers, Applications",898,0.052,36.77
+Statewide,2018,"Software Developers, Systems Software",229,0.028,31.54
+Statewide,2018,Web Developers,97,0.034,33.65
+Statewide,2018,Database Administrators,73,0.032,36.25
+Statewide,2018,Network and Computer Systems Administrators,185,0.022,31.47
+Statewide,2018,Computer Network Architects,58,0.013,35.14
+Statewide,2018,Computer User Support Specialists,374,0.031,24.25
+Statewide,2018,Computer Network Support Specialists,42,0.013,24.54
+7-County Metro,2018,Computer and Information Research Scientists,28,0.13,35.89
+7-County Metro,2018,Computer Systems Analysts,434,0.03,36.24
+7-County Metro,2018,Information Security Analysts,158,0.05,36.15
+7-County Metro,2018,Computer Programmers,86,0.023,30.47
+7-County Metro,2018,"Software Developers, Applications",876,0.058,36.88
+7-County Metro,2018,"Software Developers, Systems Software",219,0.035,31.24
+7-County Metro,2018,Web Developers,90,0.038,34.28
+7-County Metro,2018,Database Administrators,70,0.037,36.66
+7-County Metro,2018,Network and Computer Systems Administrators,156,0.023,31.85
+7-County Metro,2018,Computer Network Architects,49,0.014,36.1
+7-County Metro,2018,Computer User Support Specialists,256,0.028,27.56
+7-County Metro,2018,Computer Network Support Specialists,12,0.005,24.6
